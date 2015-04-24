@@ -1,0 +1,4 @@
+#!/bin/bash
+
+git pull backstop master
+git push origin master
